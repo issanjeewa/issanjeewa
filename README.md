@@ -7,11 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Engineer;Backend+Developer;Infomation+Security+Enthusiast" />
 </p>
 
-## 👨‍💻 Little bit about me 😊
-> Software and Security Enthusiast based in Finland. 6+ years of previous experence as a Software Engineer and a Systems Engineer.
-- Mainly I'm working with **NodeJS**, **Express**, **JavaScript**, TypeScript**, **Azure Cloud** and **NestJS**
-- Can handle my way around of with **Python** and **Java**
-- Have experience in transaction security domain with Thales and Entrust HSMs (as a systems engineer)
+## 👨‍💻 Little bit about me
+> Software and Security Enthusiast. 6+ years of previous experence as a Software Engineer and a Systems Engineer.
+- Mainly working as a backend developer, I enjoy solving complex problems and continuously learning new skills
+- Also have experience in transaction security domain with Thales and Entrust HSMs (as a systems engineer)
+
+<br/>
 
 ## 🛠️ My Favorite Tools
 
@@ -73,6 +74,11 @@
 ### 📚 Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure Repos](https://img.shields.io/badge/Azure%20Repos-0078D7?style=for-the-badge&logoColor=white)
+
+### ☁️ Cloud & other
+![Azure](https://img.shields.io/badge/azure%20cloud%20services-007FFF?style=for-the-badge&logoColor=007FFF&labelColor=white&color=007FFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <br />
 
